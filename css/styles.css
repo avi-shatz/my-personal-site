@@ -1,0 +1,80 @@
+/********************* Tag selectors *******************/
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-size: 1.2rem
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-size: 6.25rem;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.6rem;
+  color: #11999E;
+}
+
+a {
+  color: #11999E
+}
+
+.inner-container {
+  width: 1000px;
+  position: relative;
+  padding-top: 100px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.top-container {
+  background-color: #eaf6f6;
+  display: block;
+}
+
+.middle-container {
+  padding-top: 100px;
+}
+
+.bottom-container {
+  padding: 40px;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 60px;
+  right: 80px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 50px;
+  bottom: 300px;
+}
+
+.prop-row {
+  margin: 50px auto;
+  width: 50%;
+  text-align: left;
+  line-height: 1.7;
+}
+
+.side-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+  border-radius: 10%;
+}
+.footer-link {
+   margin: 20px;
+}

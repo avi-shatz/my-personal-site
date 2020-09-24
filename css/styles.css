@@ -78,3 +78,7 @@ a {
 .footer-link {
    margin: 20px;
 }
+
+.description {
+  clear: left;
+}
